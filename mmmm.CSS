@@ -1,0 +1,679 @@
+.js {
+    background-color: red;
+    background-color: rgb(250, 00, 00);
+    background-color: #ff0000;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+    background-size: 100% 100%;
+    background-color: rgb(192, 195, 197);
+    border-color: black;
+    border-width: 5px;
+    border-style: dashed;
+}
+
+.hh {
+    background-color: aliceblue;
+    padding: 10px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dashed yellow;
+}
+
+.form {
+    color: black;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.20);
+    border-width: 10px;
+    border-color: red blue;
+    border-style: solid;
+    outline: 5px solid black;
+}
+
+.mhmod {
+    color: black;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.20);
+    border: 5px solid gold
+}
+
+.name {
+    background-color: rgb(216, 179, 130);
+    margin: 10;
+    visibility: hidden;
+}
+
+.shubair {
+    background-color: #030101;
+    width: 10px;
+    height: 2px;
+    display: none;
+}
+
+.one {
+    border-bottom: 2px solid #ff0000;
+    color: #ff0000;
+}
+
+.tow {
+    border-bottom: 2px solid gold;
+    color: gold;
+}
+
+.three {
+    border-bottom: 2px solid green;
+    color: green;
+}
+
+.four {
+    border-bottom: 2px solid #030101;
+    color: #030101;
+}
+
+.one,
+.tow,
+.three,
+.four {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #EEE;
+    cursor: grab;
+}
+
+div p {
+    padding: 10px;
+    background-color: #ff0000;
+    color: aqua;
+    display: inline-block;
+    max-width: 40px;
+    min-width: 400px;
+    min-height: 40px;
+    max-height: 40px;
+    overflow: auto;
+}
+
+.my-famely {
+    padding: 10px;
+    background-color: #a08a8a;
+    margin-left: 30%;
+    width: fit-content;
+    overflow: auto;
+}
+
+.my-name {
+    padding: 10% 10%;
+    width: 80%;
+    margin: auto;
+    color: black;
+    background-color: #ee0303;
+    text-shadow: 3px 3px 1px rgb(18, 21, 206);
+    width: fit-content;
+}
+
+.mm-sh {
+    background-color: #ff0000;
+    text-align: right;
+    direction: rtl;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.mm-oo {
+    padding: 15px;
+    margin: 0 30%;
+    background-color: #ee0f0f57;
+    text-decoration-line: underline;
+    width: fit-content;
+    text-transform: capitalize;
+}
+
+.mm-o {
+    width: 30%;
+    color: #030101;
+    background-color: #f80505;
+    padding: 10px;
+    margin-left: 50%;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.mom-mom {
+    color: yellow;
+    background-color: green;
+    padding: 15px;
+    width: 50%;
+    margin: 20px 20%;
+    letter-spacing: 10px;
+    text-indent: 64px;
+    line-height: 1.6;
+    word-spacing: 25px;
+}
+
+.mhmod-sh {
+    background-color: #bd0505;
+    padding: 10px;
+    width: 500px;
+    white-space: nowrap;
+    word-break: break-all;
+}
+
+.css-1 {
+    font-size: 35px;
+    background-color: #ee0303;
+    padding: 10px;
+    width: 280px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: capitalize;
+}
+
+.mmm-ooo {
+    text-align: center;
+    padding: 20px;
+    background-color: #EEE;
+    font-size: 20px;
+    border: 2px solid red;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+div p {
+    border: inherit;
+    background-color: inherit;
+    color: inherit;
+    padding: inherit;
+    font-size: 20px;
+}
+
+.mhmod-shubair {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div span {
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.dad {
+    background-color: #ee0303;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.dad div {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #EEE;
+    float: left;
+    width: calc((100% - 90px) / 5);
+    margin-left: 15px;
+    opacity: 0.7;
+}
+
+.cleer {
+    clear: both;
+}
+
+.mhmod-1 {
+    color: wheat;
+    background-color: #bd0505;
+    padding: 10px;
+    width: 15%;
+    position: absolute;
+}
+
+
+.mhmod-2 {
+    color: wheat;
+    background-color: #054099;
+    padding: 10px;
+    width: 15%;
+    position: relative;
+    bottom: 0px;
+}
+
+.mhmod-3 {
+    color: wheat;
+    background-color: #067c10;
+    padding: 10px;
+    width: 15%;
+    position: static;
+}
+
+.aaa-1 {
+    width: 1000px;
+    height: 600px;
+    background-color: #a08a8a;
+    position: relative;
+}
+
+.mhmod-4 {
+    color: black;
+    padding: 10px;
+    width: 15%;
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.mhmod-5 {
+    color: black;
+    background-color: #a79c9c;
+    padding: 10px;
+    width: 10%;
+    position: fixed;
+    bottom: 0;
+    margin-left: 45%;
+    margin-bottom: 2000px;
+}
+
+body {
+    min-height: 5000px;
+}
+
+.mhmod-6 {
+    font-size: 20px;
+    color: wheat;
+    background-color: black;
+    padding: 15px;
+    position: sticky;
+    top: 5px;
+}
+
+.mhmod-7 {
+    background-color: red;
+    width: 10%;
+    padding: 10px;
+    position: absolute;
+    left: 20px;
+    z-index: 2;
+}
+
+.mhmod-8 {
+    background-color: blue;
+    width: 10%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+ul {
+    color: black;
+    background-color: #a79c9c;
+    padding: 10px;
+    margin: 0 50px;
+    list-style-type: decimal;
+    list-style-position: inside;
+    list-style-image: url(jd.jfif);
+}
+
+
+table {
+    width: 60%;
+    margin-top: 10px;
+    border-spacing: 0px;
+    cursor: pointer;
+    direction: rtl;
+}
+
+table td {
+    padding: 15px;
+    background-color: #EEE;
+    border: 1px solid rgb(15, 3, 3);
+    text-align: center;
+}
+
+table thead td {
+    background-color: #bd0505;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-color: #067c10;
+}
+
+.dd {
+    background-color: #EEE;
+    width: 150px;
+    height: 100px;
+}
+
+a {
+    color: #bd0505;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: green;
+}
+
+.ch:checked+label {
+    color: red;
+}
+
+div:empty {
+    border: 5px solid red;
+}
+
+.in {
+    border: 2px solid black;
+}
+
+.in:focus {
+    border-color: blue;
+    outline: none;
+}
+
+.div1::first-letter {
+    background-color: #067c10;
+    color: #030101;
+    font-size: 10px;
+}
+
+.div2::first-line {
+    color: white;
+    background-color: #030101;
+}
+
+::selection {
+    background-color: #030101;
+    color: yellow;
+}
+
+.baba {
+    margin-bottom: 20px;
+    overflow: hidden;
+    counter-increment: namber;
+}
+
+.m-1 {
+    background-color: #EEE;
+    width: 50px;
+    margin-right: 20px;
+    padding: 10px;
+    height: 55.5px;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+}
+
+.us {
+    background-color: #EEE;
+    padding: 10px;
+    width: 600px;
+    float: left;
+    position: relative;
+}
+
+.us::after {
+    content: counter(namber);
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 100%;
+    right: -10px;
+    top: 0;
+    background-color: #53d7f8;
+}
+
+.us::before {
+    content: attr(data-text);
+    display: none;
+}
+
+.us:hover::before {
+    display: block;
+}
+
+.div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px auto;
+    border-radius: 10px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+}
+
+.input {
+    background-color: #054099;
+    width: 65px;
+    height: 28px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+.input:hover {
+    background-color: red;
+}
+
+.reset {
+    background-color: #054099;
+    width: 65px;
+    height: 28px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+.reset:hover {
+    background-color: red;
+}
+
+.pas {
+    border-radius: 15px;
+
+}
+
+.pas:focus {
+    outline: none;
+    border: 1px solid red;
+}
+
+.div-400 {
+    padding: 20px;
+    background-color: #EEE;
+    margin: 20px auto;
+    width: 500px;
+    box-shadow: 2px 2px 10px 15px black;
+}
+
+.div-500 {
+    padding: 20px;
+    background-color: #EEE;
+    margin: 20px auto;
+    width: 500px;
+    box-shadow: 2px 2px 10px 15px black inset;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+}
+
+.div-500:hover {
+    box-shadow: none;
+}
+
+.mama {
+    width: 600px;
+    overflow: hidden;
+    margin-right: 100px;
+    padding: 20px;
+    background-color: #ddd;
+}
+
+.px {
+    background-color: #EEE;
+    width: 300px;
+    margin-left: 20px auto;
+    float: left;
+    border: 10px solid red;
+    box-sizing: border-box;
+}
+
+.div-700 {
+
+    width: 400px;
+    height: 200px;
+    background-color: #bd0505;
+    transition-duration: 1s;
+    transition-delay: 0.2s;
+    transition-property: margin-left, width;
+    transition-timing-function: ease;
+}
+
+.div-700:hover {
+    margin-left: 100px;
+    background-color: #054099;
+    width: 700px;
+}
+
+.one-11 {
+    background-color: blue !important;
+    padding: 10px !important;
+    width: 200px !important;
+}
+
+/*
+transition-timing-function=السرعة بالانتقال
+transition-delay: 0.3s;=الوقت الي ياخده العنصر عشان يبدا عملية الانتقال
+transition-property: margin-lef;=الخواص الي هيشتغل عليها الترانزيشن
+transition-duration=الوقت الي بياخدو العنصر وهو بنتقل
+*
+box-sizing: border-box;=بتخليش اشي ياثر بالحجم تاع العنصر
+*
+float=وين ييجي العنصر بنائا على العنصر الي قبلو
+*
+ box-shadow: 2px 2px 10px 15px black inset;=الضابة تاعت البوكس : اللون وضبابيت وانتشاره ومكانه
+ *
+border-radius=الحافة تاعت البوردر
+*
+*كيف تعمل سهم*
+    width: 0;
+    height: 0;
+    background-color: transparent;
+    left: -20px;
+    top: 50%;
+    margin-top: -10px;
+    position: absolute;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent #53d7f8 transparent transparent
+*
+content: counter(namber);=ترقيم العناصر ويربط عن طريق counter-increment: namber;
+*
+::after=الشيء الي بعد العنصر
+::before=الشيء الي قبل العنصر
+::first-letter=التحكم باول حرف من العنصر
+::first-line=التحكم باول صطر من العنصر
+::selection=التحكم باشكال والوان التحديد
+*
+a:hover=ايش يسير للعنصر لما يجي عليه الماوس
+a:visited=ايش يسير بالرابط بعد زيارته
+.ch:checked+label=التحكم بالعنصر عند اخنيا الاختيار
+.in:focus=ايش يسير للعنصر لما تدعس عليه
+div:empty=التحكم بالعناصر الفارغة
+*
+*خواص الجدول*
+border-spacing: 0px;=البعد بين العناصر بالجدول
+*
+list-style-image: url=بتضيف صورة بدل الترقيم
+list-style-position: inside;=بتدخل الترقيم داخل خلفية العناصر المرقمة
+list-style-type: ;=نوع ترقيم الارقام
+*
+position: sticky;=بتخلي العنصر يثبت لما يصل المكان الي انت محدده
+position: fixed;=بيضل معك بالشاشة وين متروح
+position: absolute;=بتخلي الصفحة تتعامل مع العنصر كانه مش موجود
+position: relative;=بتخلي العنصر يتحرك بكل الصفحة بدون ما يحرك معو اشي
+position: static;=بتخلي العنصر ما يتحرك من مكانه
+*
+opacity: 0.2;=الشفافية للعنصر كله مش بس الخلفية
+*
+width: calc(94%/5);
+6spaces 1%*6 =>6%
+94%/5
+_
+6spaces 15px*6=>90px
+100%-90px
+(100%-90px)/5
+×
+cursor: pointer;=بيخلي الماوس يتعامل مو اكنو رابط او زر
+×
+font-style: ;=شكل الخط مائل او...
+وحدجم منbody
+rem=بيورث الحجم من htmlوبيكون16pxاذا ما غيرت عليه
+vw=
+percentage
+×
+text-overflow: ellipsis;=بتعرفك انو في كلام مختفي
+overflow: hidden;=بتخلي الكلام الزيادة يختفي
+white-space: nowrap;=بتخلي الكلام يكمل حتى لو طلع برى الخلفية
+word-break: break-all;=بتخلي الينك داخل الخلفية حتى لو في زيادة
+word-spacing: 25px;=البعد بين الكلمات
+line-height: 1.6;=البعد الطولي بين الكلام
+text-indent: 100px;=من وين ببدا الكلام
+ letter-spacing: =البعد بين الاحرف
+text-decoration: none;=تخلي فش خط تحت الرابط
+ text-transform: capitalize;=بتخلي اول حرف من كل كلمة كبير
+ text-decoration-line: underline;=بحط خط تحت الكلام وبنع تخليه بالنص وفوق
+ ×
+ vertical-align: middle;=بتخلي الكلام محازي للصورة وبنفع يكون تحت او فوق
+ ×
+ text-alingn=من وين يبدا الكلام واتجاهاتها: left,right,center
+ ×
+ direction: ltr;=ترتيب الكلام من الشمال لليمين او العكس
+ ×
+text-shadow=التظليل في الخلفية
+H-sadow=الظل الافقي
+v-shadow=الظل العمودي
+Blur=نسبة الضبابية
+color=لون الضباب
+×
+=بتخلي الخلفية على قد الكلامwidth: fit-content;
+×
+overflow :visible=الكلام الي زياات القياس:
+px
+em=بيورث الحدة بيظهر
+overflow :hidden=الكلام الي زيادة بيختفي
+overflow :outo=بتخليك تقدر تنزل وتطلع عشان تشوف الكلام الزيادة
+overflow-x:hidden=بتخفي الكلام الي زيادة من فوق
+overflow-y:hidden= بتخفي الكلام الي زيادة من تحت
+×
+display: none= بتخي العنصر يختفي 
+border=الخط الي بحوط الكلام ومن انواعه
+-solid=من انواع البوردر
+-dashed=من نواع البوردر
+×
+left =يسار
+right=يمين
+top=اعلى
+center=وسط
+bottom=تحت
+×
+cover=بتخلي الصورة على كل الخلفية لاكن ممكن تمطط وممكن تنقص
+contanin=بتخعل الصورة على كل الخلفية لاكن بدون ما تمطط ومهما كبرت وصغرت مارح تنقص
+ممكن تكبر وتصغر الخلفية بالpxاو النسبة المئوية
+width=نسبة التي تستحوذ عليها الخلفية من شاشة الموقع
+margin=التحكم استحواذ الخلفية على الشاشة وحجمها
+padding=التحكم بمكان الكلام داخل الخلفية بالكسل او النسب المئوية
+block
+-بحترم كل الخواص والجهات
+inline
+-ما بيحترم غير الpaddingفي اليمين والشمال بس
+-بيحترم marginفي الشمال واليمين بس
+inline-block
+-بيحترم كل الخواص زي block
+-
+-
+*/
